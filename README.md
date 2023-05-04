@@ -25,3 +25,24 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Mapeando o caminho
+# design(inpiração) --> https://dribbble.com/shots/19341288-Marketing-Agency-Dashboard-Design
+
+4 páginas 
+    1. Design
+    2. Fitness
+    3. Books
+    4. Products
+    Cada página irá ter sua própria estrutura HTML e CSS, é nessa estrutura que será 'injetado' os componentes
+
+
+Componentes
+    1. pages-menu 
+    2. header
+    3. card-content
+        1. small
+        2. medium
+        3. large
+        O tamanho do card será passado pelo componente pai.

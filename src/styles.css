@@ -1,1 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800&display=swap');
+
 /* You can add global styles to this file, and also import other style files */
+:root{
+    --clr-primary-light: #c7c6c7; 
+    --clr-secondary-light: #fff;
+
+    --clr-primary-dark: #23252b;
+    --clr-secondary-dark: #121316;
+    --clr-accent: #e55919;
+    --clr-card-content-a: #03584a;
+    --clr-card-content-b: #3134e1;
+    --clr-card-content-c: #fafa1b;
+    --clr-card-content-d: #010107;
+
+    --bg-primary-light: var(--clr-primary-light);
+    --bg-secondary-light: var(--clr-secondary-light);
+    --bg-primary-dark: var(--clr-primary-dark);
+    --bg-secondary-dark: var(--clr-secondary-dark);
+ 
+    
+    --ff-primary: 'Poppins', sans-serif;
+
+    --fw-extrabold: 800;
+    --fw-bold: 700;
+    --fw-medium: 500;
+    --fw-regular: 400;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--ff-primary);
+}
+
+html, body {
+    min-height: 100vh;
+}
