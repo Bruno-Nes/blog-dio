@@ -5,11 +5,15 @@
 }
 
 .blog-page-menu__wrapper{
+    min-height: 100vh;
+    height: 100%;
     width: 17.5rem;
+    
     padding: 1.5rem 1rem;
 }
 
 .blog-page-menu-header{
+    margin-top: 1rem;
     justify-content: center;
 }
 
@@ -18,20 +22,120 @@
     height: 90px;
 }
 
-/* .blog-page-menu-header__content{
-    
-} */
+.blog-page-menu-header__profile-name{
+    font-size: 1.275rem;
+    font-weight: var(--fw-medium);
+    line-height: 20px;
+    margin: .425rem 0 .375rem 0;
+}
+
+.blog-page-menu-header__profile-email{
+    font-size: .675rem;
+    opacity: 0.7;
+}
 
 .blog-page-menu-nav{
-    margin: 0 auto;
+    width: 100%;
+    height: calc(100% - 400px);
+    margin: 2.2rem auto 3rem;
+}
+
+.blog-page-menu-nav__nav-wrapper{
+    margin-top: 1.8rem;
+    margin-left: 2.6rem;
+}
+
+.blog-page-menu-nav__link-page{
+    margin-bottom: 2.4rem;
+}
+
+.blog-page-menu-nav__text {
+    font-size: 1.575rem;
+    color: #7e7a7a;
 }
 
 .blog-page-menu-nav__icon{
     width: 25px;
     height: 25px;
+    fill: #7e7a7a;
 }
 
 .blog-page-menu-nav__link-page{
     flex-direction: row;
     gap: 10px;
 }
+
+.blog-page-menu-darkmode{
+    margin-top: 7rem;
+    display: flex;
+    gap: 25px;
+    align-items: center;
+}
+
+.blog-page-menu-chagetheme__text{
+    color: #7e7a7a;
+    font-size: 1.125rem;
+    font-weight: var(--fw-regular);
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 50px;
+    height: 24px;
+  }
+  
+  /* Hide default HTML checkbox */
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  /* The slider */
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    left: 4px;
+    bottom: 2px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: var(--clr-card-content-a);
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px var(--clr-card-content-a);
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(23px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
