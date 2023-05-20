@@ -32,9 +32,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 4 páginas 
     1. Design
-    2. Fitness
-    3. Books
-    4. Products
+    2. Books
+    3. Products
     Cada página irá ter sua própria estrutura HTML e CSS, é nessa estrutura que será 'injetado' os componentes
 
 
@@ -46,3 +45,8 @@ Componentes
         2. medium
         3. large
         O tamanho do card será passado pelo componente pai.
+
+TO-DO:
+    Deixar o conteúdo das cards dinâmicos(recebendo as propriedades através de inputs)
+    Mudança de pagina Design(home), Books e Products
+    Filtrar os cards, através do input 

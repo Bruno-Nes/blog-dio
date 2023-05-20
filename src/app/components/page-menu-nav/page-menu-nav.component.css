@@ -139,3 +139,11 @@
   .slider.round:before {
     border-radius: 50%;
   }
+
+  .activated p{
+    color: var(--clr-accent);
+  }
+
+  .activated .blog-page-menu-nav__icon{
+    fill: var(--clr-accent);
+  }

@@ -5,7 +5,6 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { DesignComponent } from './pages/design/design.component';
-import { FitnessComponent } from './pages/fitness/fitness.component';
 import { BooksComponent } from './pages/books/books.component';
 import { ProductsComponent } from './pages/products/products.component';
 import { CardContentComponent } from './components/card-content/card-content.component';
@@ -15,17 +14,18 @@ import { NbThemeModule } from '@nebular/theme';
 import { NbToggleModule } from '@nebular/theme';
 import { NbEvaIconsModule } from '@nebular/eva-icons';
 import { NbIconModule } from '@nebular/theme';
+import { SmallCardContentComponent } from './components/small-card-content/small-card-content.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     DesignComponent,
-    FitnessComponent,
     BooksComponent,
     ProductsComponent,
     CardContentComponent,
     PageMenuNavComponent,
+    SmallCardContentComponent,
   ],
   imports: [
     BrowserModule,

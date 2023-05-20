@@ -1,3 +1,14 @@
 main{
+    min-width: 100vw;
     display: flex;
+}
+
+.blog-page-content__wrapper{
+    background-color: var(--bg-primary-light);
+    width: 100%;
+}
+
+.design-cards__wrapper{
+    max-width: 500px;
+    padding: 2.5rem;
 }
