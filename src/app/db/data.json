@@ -1,0 +1,99 @@
+{
+        "design": [
+            {
+                "id": "1",
+                "title": "",
+                "subtitle": "",
+                "description": "",
+                "url": ""
+             }
+        ],
+         "book":[
+            {
+                "id": "1",
+                "title": "The Legend of Zelda™: Tears of the Kingdom",
+                "subtitle": "",
+                "description": "The Legend of Zelda: Tears of the Kingdom offers a vast world full of varied quests, challenging puzzles, ferocious monsters, and unique sights to behold.",
+                "url": "https://www.amazon.com/-/pt/dp/1913330001/ref=zg_sccl_2/140-4048789-1685012?pd_rd_w=TyF24&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=84F36NNX8Z802FTABG44&pd_rd_wg=yo5Re&pd_rd_r=7735c07f-db66-4958-8ae7-5557e311658b&pd_rd_i=1913330001&psc=1"
+            },
+            {
+                "id": "2",
+                "title": "Elon Musk",
+                "subtitle": "",
+                "description": "From the author of Steve Jobs and other bestselling biographies, this is the astonishingly intimate story of the most fascinating and controversial innovator of our era",
+                "url": "https://www.amazon.com/-/pt/dp/1982181281/ref=zg_sccl_2/140-4048789-1685012?pd_rd_w=TyF24&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=84F36NNX8Z802FTABG44&pd_rd_wg=yo5Re&pd_rd_r=7735c07f-db66-4958-8ae7-5557e311658b&pd_rd_i=1982181281&psc=1"
+            },
+            {
+                "id": "3",
+                "title": "The Ballad of Songbirds and Snakes",
+                "subtitle": "",
+                "description": "It is the morning of the reaping that will kick off the tenth annual Hunger Games. In the Capitol, eighteen-year-old Coriolanus Snow is preparing for his one shot at glory as a mentor in the Games.",
+                "url": "https://www.amazon.com/-/pt/dp/1338635174/ref=zg_sccl_2/140-4048789-1685012?pd_rd_w=TyF24&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=84F36NNX8Z802FTABG44&pd_rd_wg=yo5Re&pd_rd_r=7735c07f-db66-4958-8ae7-5557e311658b&pd_rd_i=1338635174&psc=1"
+            },
+            {
+                "id": "4",
+                "title": "The Wager: A Tale of Shipwreck, Mutiny and Murder",
+                "subtitle": "",
+                "description": "From the author of Killers of the Flower Moon, a page-turning story of shipwreck, survival, and savagery, culminating in a court martial that reveals a shocking truth.",
+                "url": "https://www.amazon.com/-/pt/dp/0385534264/ref=zg_sccl_2/140-4048789-1685012?pd_rd_w=TyF24&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=84F36NNX8Z802FTABG44&pd_rd_wg=yo5Re&pd_rd_r=7735c07f-db66-4958-8ae7-5557e311658b&pd_rd_i=0385534264&psc=1"
+            },
+            {
+                "id": "5",
+                "title": "Heart Bones: A Novel",
+                "subtitle": "",
+                "description": "Moving, passionate, and unforgettable, Colleen Hoover's novel follows two young adults from completely different backgrounds embarking on a tentative romance, unaware of what the future holds.",
+                "url": "https://www.amazon.com/-/pt/dp/1668021919/ref=zg_sccl_2/140-4048789-1685012?pd_rd_w=TyF24&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=84F36NNX8Z802FTABG44&pd_rd_wg=yo5Re&pd_rd_r=7735c07f-db66-4958-8ae7-5557e311658b&pd_rd_i=1668021919&psc=1"
+            },
+            {
+                "id": "6",
+                "title": "Oh, the Places You'll Go!",
+                "subtitle": "",
+                "description": "From soaring to high heights and seeing great sights to being left in a Lurch on a prickle-ly perch, Dr. Seuss addresses life’s ups and downs with his trademark humorous verse and whimsical illustrations.",
+                "url": "https://www.amazon.com/-/pt/dp/0679805273/ref=zg_sccl_2/140-4048789-1685012?pd_rd_w=TyF24&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=84F36NNX8Z802FTABG44&pd_rd_wg=yo5Re&pd_rd_r=7735c07f-db66-4958-8ae7-5557e311658b&pd_rd_i=0679805273&psc=1"
+            },
+            {
+                "id": "7",
+                "title": "Hello Beautiful (Oprah's Book Club)",
+                "subtitle": "",
+                "description": " From the author of Dear Edward comes a “powerfully affecting” (People) family story that asks: Can love make a broken person whole?",
+                "url": "https://www.amazon.com/-/pt/dp/0593243730/ref=zg_sccl_2/140-4048789-1685012?pd_rd_w=TyF24&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=84F36NNX8Z802FTABG44&pd_rd_wg=yo5Re&pd_rd_r=7735c07f-db66-4958-8ae7-5557e311658b&pd_rd_i=0593243730&psc=1"
+            }
+         ],
+         "products":[
+            {
+                "id": "1",
+                "title": "Echo Dot (5th Gen, 2022 release)",
+                "subtitle": "With bigger vibrant sound, helpful routines and Alexa",
+                "description": "OUR BEST SOUNDING ECHO DOT YET Enjoy an improved audio experience compared to any previous Echo Dot with Alexa for clearer vocals, deeper bass and vibrant sound in any room.",
+                "url": "https://www.amazon.com/-/pt/dp/B09B8V1LZ3/ref=s9_acsd_al_bw_c2_x_2_t?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-4&pf_rd_r=KNXY4NM3NDRWP6R9GNJE&pf_rd_t=101&pf_rd_p=04ca862c-dd92-472e-8bfd-3595230349d6&pf_rd_i=9818047011&th=1"
+            },
+            {
+                "id": "2",
+                "title": "Amazon Fire TV 65",
+                "subtitle": "Omni Series 4K UHD smart TV with Dolby Vision, hands-free with Alexa",
+                "description": "Cinematic 4K entertainment - Get true-to-life picture quality and rich, brilliant colors with support for 4K Ultra HD, Dolby Vision, HDR 10, HLG, and Dolby Digital Plus, and control the TV hands-free with Alexa.HDR like you've never seen - Dolby Vision brings spectacular color, contrast, clarity, and brightness to your screen.",
+                "url": "https://www.amazon.com/-/pt/dp/B08T6J1HG8/ref=s9_acsd_al_bw_c2_x_4_t?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-9&pf_rd_r=KNXY4NM3NDRWP6R9GNJE&pf_rd_t=101&pf_rd_p=08a48a6b-f577-43c2-a257-3609f5f34b12&pf_rd_i=9818047011"
+            },
+            {
+                "id": "3",
+                "title": "Bwine Drones F7 GPS",
+                "subtitle": "",
+                "description": "Uma câmera de vídeo 4K destacável com um clique, juntamente com lente FOV de 120° e sensor COMS maior trará a você a melhor experiência de fotografia aérea.",
+                "url": "https://www.amazon.com/deal/e9850fee?showVariations=true&pf_rd_r=FTA10Z2EFX584ED3DPH2&pf_rd_t=Events&pf_rd_i=deals&pf_rd_p=998d7352-01a4-4fa3-849c-868c7db65cf8&pf_rd_s=slot-14&ref=dlx_deals_gd_dcl_img_1_e9850fee_dt_sl14_f8"
+            },
+            {
+                "id": "4",
+                "title": "SAMSUNG Celular Galaxy S23 Ultra",
+                "subtitle": "",
+                "description": "Capture a noite em pouca luz: se você está indo para um show ou noite romântica, não há nada como iluminação ruim com o modo noturno; o Galaxy S23 Ultra permite capturar conteúdo épico em qualquer ambiente com deslumbrante Nightographtographtion",
+                "url": "https://www.amazon.com/stores/page/preview?isSlp=1&isPreview=1&asins=B0BLP57HTN%2CB0BLP2Y34S%2CB0BLP45GY8%2CB0BLP2B5DZ%2CB0BLP3ZZXT%2CB0BLP2G96N%2CB0BLP3ZMZP%2CB0BLP4J9RR%2CB0BLP1HYDS%2CB0BLP46C86%2CB0BLP3K28S%2CB0BLP3PWR7%2CB0BLP1DD3W%2CB0BLP2PY6N%2CB0BLP1RJZJ%2CB0BLP18HMC%2CB0BLNZVRK2%2CB0BLP1D1XL%2CB0BLP3TL8J%2CB0BLP46D6W%2CB0BLP25C33%2CB0BLP36T7W%2CB0BLP2YFKB%2CB0BLP3ZRSJ%2C&pf_rd_r=FTA10Z2EFX584ED3DPH2&pf_rd_t=Events&pf_rd_i=deals&pf_rd_p=998d7352-01a4-4fa3-849c-868c7db65cf8&pf_rd_s=slot-14&ref=dlx_deals_gd_dcl_img_29_4f308f8d_dt_sl14_f8"
+            },
+            {
+                "id": "5",
+                "title": "SJM-inems Fones de ouvido Bluetooth 5.0",
+                "subtitle": "",
+                "description": "Emparelhamento em um passo, 2 fones de ouvido da caixa de carregamento, você pode se conectar automaticamente um ao outro e, em apenas um passo, você pode simplesmente inserir a configuração Bluetooth do celular para emparelhar os fones de ouvido.",
+                "url": "https://www.amazon.com/SJM-inems-editionBluetooth-Headphones-Bluetooth-Microphone-Headphones/dp/B0BZWLFHTR?pf_rd_r=FTA10Z2EFX584ED3DPH2&pf_rd_t=Events&pf_rd_i=deals&pf_rd_p=998d7352-01a4-4fa3-849c-868c7db65cf8&pf_rd_s=slot-14&ref=dlx_deals_gd_dcl_img_22_9bc1aa79_dt_sl14_f8"
+            }
+        ]
+}

@@ -14,7 +14,6 @@ import { NbThemeModule } from '@nebular/theme';
 import { NbToggleModule } from '@nebular/theme';
 import { NbEvaIconsModule } from '@nebular/eva-icons';
 import { NbIconModule } from '@nebular/theme';
-import { SmallCardContentComponent } from './components/small-card-content/small-card-content.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +24,6 @@ import { SmallCardContentComponent } from './components/small-card-content/small
     ProductsComponent,
     CardContentComponent,
     PageMenuNavComponent,
-    SmallCardContentComponent,
   ],
   imports: [
     BrowserModule,
