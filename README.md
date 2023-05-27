@@ -30,23 +30,40 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Mapeando o caminho
 # design(inpiração) --> https://dribbble.com/shots/19341288-Marketing-Agency-Dashboard-Design
 
-4 páginas 
+3 páginas 
     1. Design
     2. Books
     3. Products
-    Cada página irá ter sua própria estrutura HTML e CSS, é nessa estrutura que será 'injetado' os componentes
 
 
 Componentes
     1. pages-menu 
     2. header
     3. card-content
-        1. small
-        2. medium
-        3. large
-        O tamanho do card será passado pelo componente pai.
 
-TO-DO:
-    Deixar o conteúdo das cards dinâmicos(recebendo as propriedades através de inputs)
-    Mudança de pagina Design(home), Books e Products
-    Filtrar os cards, através do input 
+ ## Features
+App routing, for change pages
+filter cards
+Dark mode support(next steps)
+
+ ## Getting Started
+To run this project locally, follow these steps:
+
+ ## Prerequisites
+Node.js v16.8 or later
+Installation
+npm install
+Clone the repository:
+git clone https://github.com/gstj/gabriel-taveira-portfolio.git
+Install dependencies:
+cd blog-dio
+Run the development server:
+ng build
+ng serve
+Open your browser and navigate to http://localhost:4200 to see the portfolio in action.
+
+ ## Deployment
+To deploy this project to production, follow these steps:
+
+ ## Contributing
+Contributions are welcome! If you find a bug or have a suggestion, please create an issue or submit a pull request.
