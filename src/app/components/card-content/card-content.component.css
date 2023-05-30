@@ -1,6 +1,6 @@
 .blog-card-content__wrapper{
-    width: 500px;
-    height: 320px;
+    width: 450px;
+    height: 280px;
     padding: .7rem 1rem;
     background-color: var(--clr-accent);
     border-radius: 15px;

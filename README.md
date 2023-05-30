@@ -43,7 +43,7 @@ Componentes
 
  ## Features
 App routing, for change pages
-filter cards
+filter cards(next steps)
 Dark mode support(next steps)
 
  ## Getting Started
